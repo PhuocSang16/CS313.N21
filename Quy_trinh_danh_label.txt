@@ -1,0 +1,7 @@
+Label sẽ được qui ước như sau: 0 ( sinh viên chưa đạt chuẩn quá trình ) - 1 ( sinh viên đã đạt chuẩn quá trình )
+
+Sinh viên có trong file tốt nghiệp ( tức là đã đạt chuẩn qtr thì mới được tốt nghiệp ) -> label 1
+Sinh viên nộp chứng chỉ hợp lệ ( trong file chứng chỉ ) đủ điểm để qua ngưỡng anh văn -> label 1
+Sinh viên thi xếp lớp anh văn đầu vào đủ điểm ( trong file av xếp lớp ) -> label 1
+Điểm học anh văn mới nhất của sinh viên đủ qua av ( trong file điểm ENG được xử lý từ file diem_Thu ) -> label 1
+Còn lại label 0
