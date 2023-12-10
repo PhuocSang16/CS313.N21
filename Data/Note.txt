@@ -1,3 +1,3 @@
-Dữ liệu sử dụng là dữ liệu riêng của UIT, đã được mã hóa và được cấp phép.
-Dữ liệu chỉ được sử dụng trong phạm vi môn học, không được cung cấp ra bên ngoài.
-Đọc bảng mô tả dữ liệu và báo cáo chi tiết để hiểu thêm.
+Dữ liệu sử dụng là dữ liệu riêng của UIT, đã được mã hóa và được cấp phép. Dữ liệu chỉ được sử dụng trong phạm vi môn học, không được cung cấp ra bên ngoài.
+
+Đọc bảng mô tả dữ liệu và báo cáo chi tiết để nắm được nội dung dữ liệu.
